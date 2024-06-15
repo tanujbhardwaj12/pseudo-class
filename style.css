@@ -1,0 +1,12 @@
+a:link{
+    color: aquamarine;
+}
+a:visited{
+    color: sienna;
+}
+a:hover{
+    color:darkkhaki;
+}
+a:active{
+    color: rgb(43, 226, 52);
+}
